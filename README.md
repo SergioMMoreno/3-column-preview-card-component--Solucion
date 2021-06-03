@@ -32,8 +32,8 @@ Los usuarios deben poder:
 
 ### Enlaces
 
-- Solucion URL: [GitHub](https://your-solution-url.com)
-- Sitio web subido URL: [Netlify](https://your-live-site-url.com)
+- Solucion URL: [GitHub](https://github.com/SergioMMoreno/3-column-preview-card-component--Solucion)
+- Sitio web subido URL: [Netlify](https://happy-mahavira-37d8cb.netlify.app/)
 
 ## Mi proceso
 
